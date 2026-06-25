@@ -1,81 +1,58 @@
 class Solution {
 public:
+    vector<string> ans;
+        void helper(string s, int target, int i,
+                const string& path,
+                long eval,
+                long residual) {
 
-    void solve(vector<string>& ans,
-               string& temp,
-               string& num,
-               int i,
-               long long val,
-               long long last,
-               int target) {
-
-        if(i == num.size()) {
-            if(val == target)
-                ans.push_back(temp);
+        // base case
+        if (i == s.length()) {
+            if (eval == target) {
+                ans.push_back(path);
+            }
             return;
         }
 
-        long long curr = 0;
-        int len = temp.size();
+        string currStr;
+        long num = 0;
 
-        for(int j = i; j < num.size(); j++) {
+        // backtracking loop
+        for (int j = i; j < s.length(); j++) {
 
-            // leading zero not allowed
-            if(j > i && num[i] == '0')
-                break;
+            // handle leading zero
+            if (j > i && s[i] == '0')
+                return;
 
-            curr = curr * 10 + (num[j] - '0');
-            string s = num.substr(i, j - i + 1);
+            currStr += s[j];
+            num = num * 10 + s[j] - '0';
 
-            // +
-            temp += "+" + s;
-            solve(ans, temp, num, j + 1, val + curr, curr, target);
-            temp.resize(len);
+            if (i == 0) {
+                helper(s, target, j + 1, path + currStr, num, num);
+            }
+            else {
+                helper(s, target, j + 1,
+                       path + "+" + currStr,
+                       eval + num,
+                       num);
 
-            // -
-            temp += "-" + s;
-            solve(ans, temp, num, j + 1, val - curr, -curr, target);
-            temp.resize(len);
+                helper(s, target, j + 1,
+                       path + "-" + currStr,
+                       eval - num,
+                       -num);
 
-            // *
-            temp += "*" + s;
-            solve(ans, temp, num, j + 1,
-                  val - last + last * curr,
-                  last * curr,
-                  target);
-            temp.resize(len);
+                helper(s, target, j + 1,
+                       path + "*" + currStr,
+                       eval - residual + residual * num,
+                       residual * num);
+            }
         }
     }
 
-    vector<string> addOperators(string num, int target) {
-
-        vector<string> ans;
-
-        if(num.empty())
-            return ans;
-
-        long long curr = 0;
-        string temp;
-
-        for(int i = 0; i < num.size(); i++) {
-
-            // leading zero
-            if(i > 0 && num[0] == '0')
-                break;
-
-            curr = curr * 10 + (num[i] - '0');
-
-            temp = num.substr(0, i + 1);
-
-            solve(ans,
-                  temp,
-                  num,
-                  i + 1,
-                  curr,
-                  curr,
-                  target);
-        }
-
+    vector<string> addOperators(string s, int target) {
+        helper(s, target, 0, "", 0, 0);
         return ans;
     }
+
+
 };
