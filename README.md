@@ -11,6 +11,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
+| [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,4 +24,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
+## String
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
