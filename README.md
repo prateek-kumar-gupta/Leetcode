@@ -36,9 +36,18 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prateek-0000/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prateek-0000/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prateek-0000/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
