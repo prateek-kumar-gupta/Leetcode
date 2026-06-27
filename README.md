@@ -7,6 +7,7 @@
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Backtracking
 |  |
@@ -44,6 +45,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Prateek-0000/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prateek-0000/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -64,4 +66,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
