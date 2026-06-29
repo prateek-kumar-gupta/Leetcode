@@ -9,6 +9,7 @@
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prateek-0000/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prateek-0000/Leetcode/tree/master/0020-valid-parentheses) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prateek-0000/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
