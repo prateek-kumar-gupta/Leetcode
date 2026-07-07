@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prateek-0000/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
 | ------- |
