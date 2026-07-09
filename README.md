@@ -30,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
 | [0460-lfu-cache](https://github.com/Prateek-0000/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Prateek-0000/Leetcode/tree/master/0020-valid-parentheses) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Prateek-0000/Leetcode/tree/master/0402-remove-k-digits) |
@@ -112,6 +114,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Prateek-0000/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
