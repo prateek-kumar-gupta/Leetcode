@@ -16,6 +16,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/Prateek-0000/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-0000/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-0000/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prateek-0000/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prateek-0000/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -40,6 +41,7 @@
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-0000/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-0000/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prateek-0000/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -127,6 +130,7 @@
 | [0904-fruit-into-baskets](https://github.com/Prateek-0000/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-0000/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-0000/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -156,4 +160,5 @@
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-0000/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-0000/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
