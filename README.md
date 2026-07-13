@@ -38,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Prateek-0000/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-0000/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Prateek-0000/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Prateek-0000/Leetcode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Prateek-0000/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Prateek-0000/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-0000/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Prateek-0000/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Prateek-0000/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-0000/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Prateek-0000/Leetcode/tree/master/0904-fruit-into-baskets) |
