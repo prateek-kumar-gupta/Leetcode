@@ -32,6 +32,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prateek-0000/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
@@ -55,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Prateek-0000/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
