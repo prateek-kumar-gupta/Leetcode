@@ -25,6 +25,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prateek-0000/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prateek-0000/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prateek-0000/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Prateek-0000/Leetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prateek-0000/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,4 +196,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
