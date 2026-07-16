@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-0000/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prateek-0000/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/Prateek-0000/Leetcode/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/Prateek-0000/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prateek-0000/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Prateek-0000/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Prateek-0000/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
