@@ -39,6 +39,7 @@
 | [0136-single-number](https://github.com/Prateek-0000/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Prateek-0000/Leetcode/tree/master/0260-single-number-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Prateek-0000/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prateek-0000/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
