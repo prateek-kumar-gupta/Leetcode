@@ -66,6 +66,7 @@
 | [0029-divide-two-integers](https://github.com/Prateek-0000/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
+| [0507-perfect-number](https://github.com/Prateek-0000/Leetcode/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prateek-0000/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
