@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prateek-0000/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Prateek-0000/Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Prateek-0000/Leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Prateek-0000/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Prateek-0000/Leetcode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prateek-0000/Leetcode/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/Prateek-0000/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/Prateek-0000/Leetcode/tree/master/0507-perfect-number) |
@@ -204,5 +206,10 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Prateek-0000/Leetcode/tree/master/0204-count-primes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Prateek-0000/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
