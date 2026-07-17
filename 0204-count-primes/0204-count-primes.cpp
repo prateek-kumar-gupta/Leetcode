@@ -8,7 +8,7 @@ public:
         }
         for(int i = 2 ; i < n + 1 ; i++){
             if(prime[i]==1){
-                for(int j = 2*i ; j < n; j = j + i){
+                for(long long j = 1LL * i * i; j < n; j += i){
                     prime[j] = 0 ;
                 }
             }
