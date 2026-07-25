@@ -73,6 +73,7 @@
 | [0507-perfect-number](https://github.com/Prateek-0000/Leetcode/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1486-xor-operation-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prateek-0000/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Prateek-0000/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
+| [3536-maximum-product-of-two-digits](https://github.com/Prateek-0000/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
