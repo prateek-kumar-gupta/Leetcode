@@ -87,6 +87,7 @@
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/Prateek-0000/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-0000/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Prateek-0000/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prateek-0000/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
@@ -101,6 +102,7 @@
 | [0402-remove-k-digits](https://github.com/Prateek-0000/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Prateek-0000/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Prateek-0000/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prateek-0000/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -147,12 +149,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prateek-0000/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prateek-0000/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Prateek-0000/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prateek-0000/Leetcode/tree/master/0860-lemonade-change) |
 ## Sliding Window
 |  |
