@@ -26,6 +26,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prateek-0000/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-0000/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prateek-0000/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prateek-0000/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prateek-0000/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prateek-0000/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
