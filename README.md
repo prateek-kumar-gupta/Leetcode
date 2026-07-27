@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Prateek-0000/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Prateek-0000/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prateek-0000/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Prateek-0000/Leetcode/tree/master/0136-single-number) |
@@ -149,11 +150,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prateek-0000/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Prateek-0000/Leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prateek-0000/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prateek-0000/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Prateek-0000/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
