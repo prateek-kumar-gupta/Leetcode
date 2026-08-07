@@ -17,6 +17,7 @@
 | [0204-count-primes](https://github.com/Prateek-0000/Leetcode/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Prateek-0000/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Prateek-0000/Leetcode/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -156,6 +157,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-0000/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prateek-0000/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prateek-0000/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
@@ -165,6 +167,7 @@
 | [0055-jump-game](https://github.com/Prateek-0000/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Prateek-0000/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Prateek-0000/Leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Prateek-0000/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prateek-0000/Leetcode/tree/master/0860-lemonade-change) |
@@ -227,6 +230,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prateek-0000/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
