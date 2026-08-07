@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/Prateek-0000/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prateek-0000/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Prateek-0000/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prateek-0000/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -225,6 +226,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Prateek-0000/Leetcode/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prateek-0000/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -238,4 +240,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Prateek-0000/Leetcode/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Prateek-0000/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
