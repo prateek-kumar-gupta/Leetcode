@@ -11,16 +11,33 @@
  */
 class Solution {
 public:
- void postorder(TreeNode* root , vector<int>&ans){
-    if(root == NULL) return;
-    postorder(root->left,ans);
-    postorder(root->right,ans);
-    ans.push_back(root->val);
-
- }
     vector<int> postorderTraversal(TreeNode* root) {
-         vector<int>ans ;
-        postorder(root , ans );
+        vector<int> ans;
+        stack<TreeNode*> st;
+        TreeNode* lastVisited = nullptr;
+
+        while (root != nullptr || !st.empty()) {
+
+            // Go as far left as possible
+            while (root != nullptr) {
+                st.push(root);
+                root = root->left;
+            }
+
+            TreeNode* node = st.top();
+
+            // If right subtree exists and hasn't been processed
+            if (node->right != nullptr && lastVisited != node->right) {
+                root = node->right;
+            }
+            else {
+                // Both left and right are done
+                ans.push_back(node->val);
+                lastVisited = node;
+                st.pop();
+            }
+        }
+
         return ans;
     }
 };
