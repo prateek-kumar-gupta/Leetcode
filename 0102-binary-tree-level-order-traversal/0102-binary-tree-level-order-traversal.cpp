@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-     void solve(vector<vector<int>>& ans , queue<TreeNode*>& q){
+  void solve(vector<vector<int>>& ans , queue<TreeNode*>& q){
         if(q.empty()||q.front()==NULL) return ;
         vector<int>an ;
         while(!q.empty()){
