@@ -11,16 +11,17 @@
  */
 class Solution {
 public:
-    int findh(TreeNode*root){
+    int findh(TreeNode* root , int &ma){
         if(root==NULL) return 0;
-         return max(findh(root->left), findh(root->right)) + 1 ;
+        int lh = findh(root->left , ma);
+        int rh = findh(root->right, ma );
+        ma = max(ma , lh + rh);
+        return 1 + max(lh , rh);
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL) return 0 ;
-        int lh = 0 ;
-        int rh = 0 ;
-        lh = findh(root->left);
-        rh = findh(root->right);
-        return max({lh + rh ,diameterOfBinaryTree(root->left) , diameterOfBinaryTree(root->right)});
+        int ma = 0 ;
+        findh( root , ma);
+        return ma ;
     }
 };
