@@ -35,17 +35,6 @@ public:
             }
             ans.push_back(an);
         }
-//         for(auto &a : mp) {
-//     vector<int> temp;
-
-//     for(auto &b : a.second) {
-//         for(auto x : b.second) {
-//             temp.push_back(x);
-//         }
-//     }
-
-//     ans.push_back(temp);
-// }
         return ans ;
     }
 };
