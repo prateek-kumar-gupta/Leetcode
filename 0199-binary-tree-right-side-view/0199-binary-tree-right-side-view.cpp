@@ -22,16 +22,15 @@ public:
         while(!q.empty()){
           node = q.front().first;
           h = q.front().second;
-          mp[h] = node->val;
+          if(h<ans.size()){ans[h] = node->val;}
+          else ans.push_back(node->val);
           q.pop();
           if(node->left)q.push({node->left , h + 1});
           if(node->right)q.push({node->right, h + 1});
 
           
         }
-        for(auto &a : mp){
-           ans.push_back(a.second);
-        }
+        
         return ans ;
     }
 };
