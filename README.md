@@ -49,6 +49,7 @@
 | [0029-divide-two-integers](https://github.com/Prateek-0000/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prateek-0000/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Prateek-0000/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Prateek-0000/Leetcode/tree/master/0260-single-number-iii) |
 | [1486-xor-operation-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -217,6 +218,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-0000/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -271,6 +273,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -309,6 +312,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0543-diameter-of-binary-tree) |
