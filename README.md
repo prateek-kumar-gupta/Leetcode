@@ -12,6 +12,7 @@
 | [0057-insert-interval](https://github.com/Prateek-0000/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prateek-0000/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/Prateek-0000/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Prateek-0000/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Prateek-0000/Leetcode/tree/master/0204-count-primes) |
@@ -60,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Prateek-0000/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-0000/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Prateek-0000/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Prateek-0000/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -268,6 +270,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -307,6 +310,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -344,4 +348,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
