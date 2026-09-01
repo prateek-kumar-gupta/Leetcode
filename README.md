@@ -285,6 +285,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Prateek-0000/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -330,6 +331,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Prateek-0000/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -368,5 +370,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Prateek-0000/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
