@@ -29,6 +29,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Prateek-0000/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Prateek-0000/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-0000/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Prateek-0000/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Prateek-0000/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-0000/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -124,6 +125,7 @@
 | [0735-asteroid-collision](https://github.com/Prateek-0000/Leetcode/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Prateek-0000/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prateek-0000/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prateek-0000/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
@@ -157,6 +159,7 @@
 | [0503-next-greater-element-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Prateek-0000/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Prateek-0000/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prateek-0000/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
@@ -294,6 +297,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -346,6 +350,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -386,4 +391,5 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Prateek-0000/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prateek-0000/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
