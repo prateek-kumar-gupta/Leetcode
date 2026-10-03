@@ -1,10 +1,10 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-      unordered_map<string, vector<string>> adj;
+        unordered_map<string, vector<string>> adj;
 
-      vector<string> words = wordList;
-      words.push_back(beginWord);
+        vector<string> words = wordList;
+        words.push_back(beginWord);
 
         for(int i = 0; i < words.size(); i++) {
             for(int j = i + 1; j < words.size(); j++) {
@@ -22,24 +22,43 @@ public:
                 }
             }
         }
-        // solving with shortest distance 
+
+        bool found = false;
+
+        for(string word : wordList) {
+            if(word == endWord) {
+                found = true;
+                break;
+            }
+        }
+
+        if(!found)
+            return 0;
+
         unordered_map<string, int> dist;
-        queue<string>q;
+        queue<string> q;
+
+        for(string word : wordList)
+            dist[word] = 0;
+
+        dist[beginWord] = 1;
+
         q.push(beginWord);
-        for(int i = 0 ; i < wordList.size() ; i++){
-            dist[wordList[i]] = 0 ;
+
+        while(!q.empty()) {
+            string s = q.front();
+            q.pop();
+
+            int d = dist[s];
+
+            for(string &a : adj[s]) {
+                if(dist[a] == 0) {
+                    dist[a] = d + 1;
+                    q.push(a);
+                }
+            }
         }
-         dist[beginWord] = 1;
-         dist[endWord] = 0 ;
-        while(!q.empty()){
-           string   s = q.front();
-           int d = dist[s];
-           q.pop();
-           for(string &a : adj[s]){
-            if(dist[a]==0) {dist[a] = d + 1; q.push(a);}
-            else dist[a] = min(d+1 , dist[a]);
-           }
-        }
+
         return dist[endWord];
     }
 };
