@@ -47,6 +47,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Prateek-0000/Leetcode/tree/master/0078-subsets) |
+| [0126-word-ladder-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@
 | [0037-sudoku-solver](https://github.com/Prateek-0000/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Prateek-0000/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prateek-0000/Leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Prateek-0000/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Prateek-0000/Leetcode/tree/master/0460-lfu-cache) |
@@ -107,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prateek-0000/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Prateek-0000/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Prateek-0000/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prateek-0000/Leetcode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Prateek-0000/Leetcode/tree/master/0282-expression-add-operators) |
@@ -392,6 +395,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Prateek-0000/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prateek-0000/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prateek-0000/Leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -478,5 +482,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prateek-0000/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
