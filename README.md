@@ -40,6 +40,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Prateek-0000/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Prateek-0000/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prateek-0000/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/Prateek-0000/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prateek-0000/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -91,6 +92,7 @@
 | [0994-rotting-oranges](https://github.com/Prateek-0000/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Prateek-0000/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prateek-0000/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prateek-0000/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prateek-0000/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Prateek-0000/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -355,6 +359,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Prateek-0000/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prateek-kumar-gupta/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -414,6 +419,7 @@
 | [0994-rotting-oranges](https://github.com/Prateek-0000/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Prateek-0000/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prateek-0000/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -457,6 +463,7 @@
 | [0130-surrounded-regions](https://github.com/Prateek-0000/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Prateek-0000/Leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Prateek-0000/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -487,4 +494,8 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Prateek-0000/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prateek-0000/Leetcode/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Prateek-0000/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
